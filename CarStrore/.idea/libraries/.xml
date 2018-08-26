@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="常用架包">
+    <CLASSES>
+      <root url="jar://F:/架包/jstl-1.2.jar!/" />
+      <root url="jar://F:/二学期/JavaWeb编程/web/提供给学员的资料/常用的第三方包/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
